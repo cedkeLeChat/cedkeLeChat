@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi 👋
+---------------------------------------------------------------------------------------------------------------------
 
-<!--
-**cedkeLeChat/cedkeLeChat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Discord Account
 
-Here are some ideas to get you started:
+<img src="https://lanyard.cnrad.dev/api/916962983958151168">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------------------------------------------------------------------------------------------
+
+# my best friends
+
+```text
+My best friends : 
+Nakatsu V2, Not_nathoux, 
+Jaifail, Edson.broux,
+Rixcica, charliekit and ferrariaurelien :]
+```
+
+# cedkeLeChat Stats
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedkeChat&layout=compact&theme=github_dark&count_private=true" /><br />    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedkeChat&show_icons=true&theme=github_dark&count_private=true" /><br />
+</div>
